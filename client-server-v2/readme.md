@@ -8,4 +8,4 @@
 eg: java -cp build/classes PubSub 8080 0 localhost
 
 <b>Client</b> --> `java -cp build/classes Client <serverip> <port> <username>` <br>
-eg: java -cp build/classes pubsub.Client localhost 8080 John
+eg: java -cp build/classes Client localhost 8080 John
